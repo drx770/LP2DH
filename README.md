@@ -2,8 +2,7 @@
 
 This repository provides a single-trial, single-scale (`P = 3`) MATLAB
 implementation of LP2DH on DynTex++. It is intended as a compact example of
-the main LP2DH pipeline rather than a reproduction package for every
-experiment reported in the paper.
+the main LP2DH pipeline.
 
 Run MATLAB from this folder:
 
